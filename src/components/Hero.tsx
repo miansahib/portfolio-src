@@ -30,7 +30,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-lg sm:text-xl text-gray-600 mb-6 sm:mb-8 max-w-2xl mx-auto lg:mx-0">
-              Specialized in enterprise implementation of LIMS, PLM and FEA.
+              Specialized in enterprise implementation of LIMS & PLM Systems 
             </p>
 
             <div className="flex items-center justify-center lg:justify-start space-x-2 text-gray-600 mb-6 sm:mb-8">
